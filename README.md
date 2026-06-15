@@ -1,6 +1,6 @@
 # Улучшенная русификация игры Through the Ages_gog
 
-Особенности:
+<strong>Особенности:</strong>
 
 Улучшено качество перевода:
 
@@ -16,8 +16,19 @@
 - по возможности длина текста подгонялась так, чтобы он ложился ровнее и аккуратнее на карточку;
 - стандартные иконки в тексте карточек используются чаще для лучшего восприятия.
 
-
-Порядок установки:
+<p> </p>
+<strong>Порядок установки:</strong>
 
 - если игра устанавливается впервые, запустить её и загрузить существующую локализацию игры.
 - выйти из игры и поместить с заменой содержимое архива Through_the_Ages_ru.zip в папку с игрой (c:\GOG Games\Through the Ages\data_ram\Localization_strings\)
+
+<p style="text-align: center;">
+  <img width="190" height="270" src="https://github.com/user-attachments/assets/1627d2ce-5ecf-4fb9-b437-3bd7173b0499" />
+  <img width="190" height="270" src="https://github.com/user-attachments/assets/d6fef258-1910-495f-8143-c283b4c97297" />
+  <img width="190" height="270" src="https://github.com/user-attachments/assets/714867ac-75db-444e-87b6-c16eea218c04" />
+  <img width="190" height="270" src="https://github.com/user-attachments/assets/9ce27dd3-ee61-4da7-8930-7fbe989735fe" />
+  <img width="190" height="270" src="https://github.com/user-attachments/assets/2e7853e6-0b0b-45ac-a2a5-53d8b4cb2258" />
+</p>
+
+
+
